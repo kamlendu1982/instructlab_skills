@@ -1,0 +1,17 @@
+version: 2
+task_description: 'First international cricket match'
+created_by: kamlendu1982
+domain: sports
+document:
+  repo: https://github.com/kamlendu1982/instructlab_skills.git
+seed_examples:
+  - question: when was the first international cricket match played?
+    answer: It as played between USA and Canada in 1844.
+  - question: Where was it played?
+    answer: It was played at New York.
+  - question: What was the name of the ground?
+    answer: the grounds of the St George's Cricket Club.
+  - question: When was the first time English team toured to Australia?
+    answer: It was on 1862.
+  - question: When was the St George's Cricket Club built?
+    answer: It was founded on 1839
